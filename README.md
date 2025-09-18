@@ -31,20 +31,20 @@ RinBounce is an open-source project under the [GNU General Public License 3.0 Li
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/rattermc/rinbounce69.git
+   git clone https://github.com/ItsDawnyy/RinBounce-Reborn.git
    ```
 
 3. Use [Gradle](https://gradle.org/install/) to build the project:
 
    ```bash
-   cd rinbounce69
+   cd rinbouncerebornn
    ./gradlew setupDevWorkspace
    ```
 
    Or if you're using Windows:
 
     ```bash
-    cd rinbounce69
+    cd rinbouncerebornn
     gradlew.bat setupDevWorkspace
     ```
 
