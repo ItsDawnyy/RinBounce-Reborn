@@ -37,14 +37,14 @@ RinBounce is an open-source project under the [GNU General Public License 3.0 Li
 3. Use [Gradle](https://gradle.org/install/) to build the project:
 
    ```bash
-   cd rinbouncereborn
+   cd RinBounce-Reborn
    ./gradlew setupDevWorkspace
    ```
 
    Or if you're using Windows:
 
     ```bash
-    cd rinbouncerebornn
+    cd RinBounce-Reborn
     gradlew.bat setupDevWorkspace
     ```
 
