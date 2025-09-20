@@ -1,6 +1,6 @@
-# RinBounce
+# RinBounce Reborn
 
-![GitHub branch status](https://img.shields.io/github/checks-status/rattermc/rinbounce69/main) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/rattermc/rinbounce69/main) ![GitHub contributors](https://img.shields.io/github/contributors/rattermc/rinbounce69)
+![GitHub branch status]
 
 A Vietnamese community driven fork of [LiquidBounce](https://github.com/CCBlueX/LiquidBounce/tree/legacy), aimed to have bypass for multiple Vietnamese Minecraft servers.
 
@@ -37,7 +37,7 @@ RinBounce is an open-source project under the [GNU General Public License 3.0 Li
 3. Use [Gradle](https://gradle.org/install/) to build the project:
 
    ```bash
-   cd rinbouncerebornn
+   cd rinbouncereborn
    ./gradlew setupDevWorkspace
    ```
 
