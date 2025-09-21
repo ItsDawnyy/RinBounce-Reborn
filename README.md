@@ -7,7 +7,7 @@ A Vietnamese community driven fork of [LiquidBounce](https://github.com/CCBlueX/
 ## Download
 
 - [GitHub Releases](https://github.com/rattermc/rinbounce69/releases/latest)
-- [RinBounce Website](https://rinbounce.wtf/download)
+- [RinBounce Reborn Website]GITHUB CHU GI NUA
 
 ## Installation
 
